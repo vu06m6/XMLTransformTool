@@ -1,0 +1,13 @@
+C:\Users\Yuhao\Desktop\tmp20210304\XMLTransformTool\XMLTransformTool\bin\Debug\XMLTransformTool.exe.config
+C:\Users\Yuhao\Desktop\tmp20210304\XMLTransformTool\XMLTransformTool\bin\Debug\XMLTransformTool.exe
+C:\Users\Yuhao\Desktop\tmp20210304\XMLTransformTool\XMLTransformTool\bin\Debug\XMLTransformTool.pdb
+C:\Users\Yuhao\Desktop\tmp20210304\XMLTransformTool\XMLTransformTool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yuhao\Desktop\tmp20210304\XMLTransformTool\XMLTransformTool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yuhao\Desktop\tmp20210304\XMLTransformTool\XMLTransformTool\obj\Debug\XMLTransformTool.Form1.resources
+C:\Users\Yuhao\Desktop\tmp20210304\XMLTransformTool\XMLTransformTool\obj\Debug\XMLTransformTool.Properties.Resources.resources
+C:\Users\Yuhao\Desktop\tmp20210304\XMLTransformTool\XMLTransformTool\obj\Debug\XMLTransformTool.csproj.GenerateResource.cache
+C:\Users\Yuhao\Desktop\tmp20210304\XMLTransformTool\XMLTransformTool\obj\Debug\XMLTransformTool.csproj.CoreCompileInputs.cache
+C:\Users\Yuhao\Desktop\tmp20210304\XMLTransformTool\XMLTransformTool\obj\Debug\XMLTransformTool.csproj.CopyComplete
+C:\Users\Yuhao\Desktop\tmp20210304\XMLTransformTool\XMLTransformTool\obj\Debug\XMLTransformTool.exe
+C:\Users\Yuhao\Desktop\tmp20210304\XMLTransformTool\XMLTransformTool\obj\Debug\XMLTransformTool.pdb
+C:\Users\Yuhao\Desktop\tmp20210304\XMLTransformTool\XMLTransformTool\obj\Debug\XMLTransformTool.csprojAssemblyReference.cache
