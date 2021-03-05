@@ -83,8 +83,7 @@ namespace XMLTransformTool
             var path = textBox_Path.Text;
 
             // valid item selected 
-            dynamic name = "undefined";
-            if (!dic.TryGetValue(comboBox_FilesNameRule.SelectedItem.ToString(), out name))
+            if (!dic.TryGetValue(comboBox_FilesNameRule.SelectedItem.ToString(), out dynamic name))
             {
                 textBox_Message.AppendText($"Selected FilesNameRule in Data is Empty{Environment.NewLine}");
                 return;
@@ -132,7 +131,7 @@ namespace XMLTransformTool
                 comboBox_FilesNameRule.Items.Clear();
 
                 // add more items from schema
-                XDocument doc = XDocument.Parse(textBox_Schema.Text);
+                var doc = XDocument.Parse(textBox_Schema.Text);
                 foreach (var elm in doc.Descendants())
                 {
                     comboBox_FilesNameRule.Items.Add(elm.Name.LocalName);
